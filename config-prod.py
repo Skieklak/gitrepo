@@ -1,1 +1,3 @@
-print("Hello, world!")
+timeout: 600
+
+
